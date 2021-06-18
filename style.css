@@ -1,0 +1,41 @@
+html,
+body{
+	width: 100%;
+	height: 100%;
+	font-family: 'Viaoda Libre', cursive;
+	background: url(https://images.pexels.com/photos/5088174/pexels-photo-5088174.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1{
+	color: white;
+	font-size: 3rem;
+}
+
+
+
+.btn-xl{
+	font-weight: 700;
+	border-radius: 300px;
+	text-transform: uppercase;
+}
+
+.btn-primary{
+	background-color: red;
+	border-color: red;
+}
+
+.btn-primary:hover{
+	background-color: black;
+	border-color: black;
+	background-color: black;
+	border-color: black;
+
+}
+
+.buffer{
+	height: 10Px;
+
+}
